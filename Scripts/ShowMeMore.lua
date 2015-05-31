@@ -633,7 +633,7 @@ end
 
 function TrapF(team)
 	if SleepCheck("ShowTrap") then
-		local traps = entityList:GetEntities({classId=294})
+		local traps = entityList:GetEntities({classId=CDOTA_BaseNPC_Additive})
 		for i,v in ipairs(traps) do
 			if v.team ~= team then
 				if not effect.TS[v.handle] then
