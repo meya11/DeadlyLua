@@ -187,7 +187,7 @@ function Tick(tick)
 		ComplexKill(true,me,2,{3.5,4,4.5,5},nil,nil,1,ID)	
 	elseif ID == CDOTA_Unit_Hero_Techies then
 		Kill(false,me,3,{500,650,850,1150},nil,250,1)
-		--KillMines(me,6,{300,450,600},{450,600,750},true,ID)
+		KillMines(me,6,{300,450,600},{450,600,750},true,ID)
 	elseif ID == CDOTA_Unit_Hero_Tusk then
 		local tkdmg = (me.dmgMin + me.dmgBonus)*3.5
 		Kill(false,me,6,{tkdmg, tkdmg, tkdmg, tkdmg},nil,300,1)
