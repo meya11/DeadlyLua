@@ -1,4 +1,4 @@
---<<Automatic learning abilities>>
+--<<Automatic learning abilities. d.l.>>
 require("libs.ScriptConfig")
 require("libs.Utils")
 require("libs.SideMessage")
