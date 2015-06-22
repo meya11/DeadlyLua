@@ -1,3 +1,4 @@
+--<<forum. d.l.>>
 require("libs.Res")
 require("libs.ScriptConfig")
 require("libs.Utils")
