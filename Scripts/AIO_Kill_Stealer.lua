@@ -1,4 +1,4 @@
---<<Automatically kill enemy as soon as their health drops low enough>>
+--<<Automatically kill enemy as soon as their health drops low enough. d.l.>>
 
 -- a lot of improve. (performance,calculation,prediction)
 require("libs.ScriptConfig")
