@@ -8,7 +8,7 @@ require("libs.SideMessage")
 config = ScriptConfig.new()
 config:SetParameter("Active", "Z", config.TYPE_HOTKEY)
 config:SetParameter("GlobalKey", "H", config.TYPE_HOTKEY)
-config:SetParameter("AutoGlobalSpells", false)
+config:SetParameter("AutoGlobalSpells", true)
 config:SetParameter("MinTarget4AutoKill", 2)
 config:Load()
 
