@@ -1,5 +1,5 @@
 --<<forum. d.l.>>
---soon http://i.imgur.com/HhNsWlP.png and many other
+--after launch reborn xD. soon. http://i.imgur.com/HhNsWlP.png
 require("libs.Res")
 require("libs.ScriptConfig")
 require("libs.Utils")
