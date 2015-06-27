@@ -1,5 +1,5 @@
 --<<forum. d.l.>>
---soon http://i.imgur.com/HhNsWlP.png
+--soon http://i.imgur.com/HhNsWlP.png and many other
 require("libs.Res")
 require("libs.ScriptConfig")
 require("libs.Utils")
